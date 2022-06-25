@@ -32,7 +32,7 @@
 
 (html,css,等素材已经放到code/pages-boilerplate目录)
 
-　
+详见code/pages-boilerplate/gulpfile.js
 
 　
 
